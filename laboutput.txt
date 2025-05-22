@@ -103,5 +103,5 @@ OPS445 Lab Report - System Information for running ./CheckLab2.py
     Python version:  3.12.3 (main, Feb  4 2025, 14:48:35) [GCC 13.3.0]
     OS Platform: linux
     Working Directory: /home/ak-c7/lab-2-Swanky28
-    Start at: Thu May 22 11:36:15 2025
+    Start at: Thu May 22 11:58:33 2025
 =================================================================
